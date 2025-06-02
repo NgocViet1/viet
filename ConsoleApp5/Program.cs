@@ -5,7 +5,12 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            //123456
+
+            
+          //nhanh main
+            //123
+          //123456
+
         }
     }
 }
